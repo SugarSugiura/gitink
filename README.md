@@ -31,7 +31,7 @@
 | souppower      | soup          |   $12 |
 | taabox         | たーぼぉ      |    $1 |
 | zanzou-lang    | zanzou        |    $1 |
-| JosephStalion38| Joseph        |    $1 |
+| JosephStalion38| Joseph        |  1ジンバブエドル |
 | smde-studio    | 銀のおっさん  |    $1 |
 | Hieda4410      | ヒエダ        |    $1 |
 
