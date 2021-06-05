@@ -18,4 +18,20 @@
 7. githubからプルリクエストを送る
 8. プルリクエストを承認してmainブランチにマージする
 
-ちんｋ
+本流にマージされた後はそのブランチはローカルからもgithub上からも削除していくもん？
+分かる人教えて＞＜
+
+
+## コラボレーター
+
+| id             | ハンドルネーム| 所持金|
+| -------------  |:-------------:| -----:|
+| SugarSugiura   | SugarSugiura  | $1600 |
+| Zengo-Master   | ほっしー      |    $1 |
+| souppower      | soup          |   $12 |
+| taabox         | たーぼぉ      |    $1 |
+| zanzou-lang    | zanzou        |    $1 |
+| JosephStalion38| Joseph        |    $1 |
+| smde-studio    | 銀のおっさん  |    $1 |
+| Hieda4410      | ヒエダ        |    $1 |
+
