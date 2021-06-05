@@ -34,4 +34,5 @@
 | JosephStalion38| Joseph        |  1ジンバブエドル |
 | smde-studio    | 銀のおっさん  |    $1 |
 | Hieda4410      | ヒエダ        |    $1 |
+| 0z4ck          | ざっく        |    €1 |
 
